@@ -20,6 +20,8 @@ gem 'jbuilder', '~> 2.5'
 gem 'devise'
 gem 'angular-rails-templates'
 gem 'omniauth-facebook'
+gem 'paperclip'
+
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
